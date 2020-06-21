@@ -1,7 +1,9 @@
 import React from 'react';
 // import logo from './logo.svg';
 import './App.css';
-import StopWatch from "./components/StopWatch/StopWatch";
+import TodoList from "./components/mobx-playground/TodoList/model/TodoList";
+
+const todoStore = new TodoList();
 
 function App() {
   return (
@@ -22,7 +24,7 @@ function App() {
       </header>
     </div>*/
       <div>
-          <StopWatch/>
+          <TodoList store={todoStore}/>
       </div>
   );
 }
