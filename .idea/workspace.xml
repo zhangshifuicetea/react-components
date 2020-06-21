@@ -20,14 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79885578-739a-425c-98e1-9a4707f0b136" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/mobx-playground/TodoList/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mobx-playground/TodoList/TodoList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mobx-playground/TodoList/model/Todo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/mobx-playground/TodoList/model/TodoList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +36,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="rdm" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ctMdziz9j9yE5tSpCKTKxNLZ9d" />
@@ -105,25 +104,57 @@
       <option name="project" value="LOCAL" />
       <updated>1592017372359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="rdm branch">
+      <created>1592739716884</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592739716884</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rdm branch">
+      <created>1592739901353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592739901353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="com" />
-    <option name="LAST_COMMIT_MESSAGE" value="com" />
+    <MESSAGE value="rdm branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="rdm branch" />
   </component>
   <component name="WindowStateProjectService">
     <state x="762" y="341" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592668136219">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="762" y="341" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1440.-58.1440.877/0.23.2048.1129@0.23.2048.1129" timestamp="1592668136219" />
-    <state x="287" y="34" key="CommitChangelistDialog2" timestamp="1592017372033">
-      <screen x="0" y="23" width="2048" height="1129" />
+    <state x="202" y="32" key="CommitChangelistDialog2" timestamp="1592739901213">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="287" y="34" key="CommitChangelistDialog2/-1440.-58.1440.877/0.23.2048.1129@0.23.2048.1129" timestamp="1592017372033" />
+    <state x="202" y="32" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1592739901213" />
+    <state x="49" y="60" key="DiffContextDialog" timestamp="1592739876766">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="49" y="60" key="DiffContextDialog/0.23.1440.877@0.23.1440.877" timestamp="1592739876766" />
     <state width="2006" height="314" key="GridCell.Tab.0.bottom" timestamp="1592670658430">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
@@ -140,18 +171,35 @@
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state width="2006" height="314" key="GridCell.Tab.0.right/-1440.-58.1440.877/0.23.2048.1129@0.23.2048.1129" timestamp="1592670658429" />
+    <state x="144" y="100" key="MergeDialog" timestamp="1592739808720">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="144" y="100" key="MergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1592739808720" />
+    <state x="358" y="230" key="MultipleFileMergeDialog" timestamp="1592739808764">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="358" y="230" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1592739808764" />
     <state x="525" y="226" width="1018" height="785" key="SettingsEditor" timestamp="1592669429498">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="525" y="226" width="1018" height="785" key="SettingsEditor/-1440.-58.1440.877/0.23.2048.1129@0.23.2048.1129" timestamp="1592669429498" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1592017374065">
-      <screen x="0" y="23" width="2048" height="1129" />
+    <state x="225" y="161" key="Vcs.Push.Dialog.v2" timestamp="1592739902928">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/-1440.-58.1440.877/0.23.2048.1129@0.23.2048.1129" timestamp="1592017374065" />
+    <state x="225" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1592739902928" />
+    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592739855659">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="508" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1592739855659" />
     <state x="725" y="342" width="598" height="490" key="find.popup" timestamp="1592670458818">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
     <state x="725" y="342" width="598" height="490" key="find.popup/-1440.-58.1440.877/0.23.2048.1129@0.23.2048.1129" timestamp="1592670458818" />
+    <state x="371" y="257" key="git4idea.merge.GitPullDialog" timestamp="1592739836962">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="371" y="257" key="git4idea.merge.GitPullDialog/0.23.1440.877@0.23.1440.877" timestamp="1592739836962" />
     <state width="300" height="62" key="javadoc.popup.new" timestamp="1592670414946">
       <screen x="0" y="23" width="2048" height="1129" />
     </state>
